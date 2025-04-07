@@ -1,1 +1,1 @@
-Simple framework for creating feedforward networks
+Simple framework for creating feedforward networks {PLACEHOLDER}
