@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1QWN1gK7DrCrgc-qHoP0UVmDPZlPoMuWP
 """
 
-import pandas as pd
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-
 # Loss functions and gradients
 class Loss:
     @staticmethod
